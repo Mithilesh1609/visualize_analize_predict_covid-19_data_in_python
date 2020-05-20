@@ -1,6 +1,6 @@
 # visualizing-covid-19-data-in-python
 
-Here we have used this 
+Here we have used this python libraries
 - Pandas - for dataset handeling
 - Numpy - Support for Pandas and calculations
 - Matplotlib - for visualization (Platting graphas)
